@@ -7,13 +7,13 @@ Desafio Técnico Escribo Inovação para o Aprendizado, que contém uma função
 ```git clone https://github.com/TiagoPantoja/desafio-Escribo-Tiago-Pantoja.git```
 
 
-3. Navegue até o diretório que o projeto foi clonado:
+2. Navegue até o diretório que o projeto foi clonado:
 
    
 ```cd desafio-Escribo-Tiago-Pantoja```
 
 
-5. Execute o arquivo somaDivisiveis.js com o Node.js para testar a função:
+3. Execute o arquivo somaDivisiveis.js com o Node.js para testar a função:
 
 
 ```node somaDivisiveis.js```
